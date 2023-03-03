@@ -1,0 +1,102 @@
+body {
+    font-family: Impact, '', sans-serif;
+    width: 1200px;
+    background-image: url(https://abrakadabra.fun/uploads/posts/2022-03/1646106285_5-abrakadabra-fun-p-molniya-na-zelenom-fone-12.jpg)
+    background-color: red
+}
+
+
+
+.conteiner_for_all_header_1 {
+    width: 1200px;
+    height: 300px;
+}
+
+
+.navigation_top {
+
+    width: 1200px;
+    height: 500px;
+}
+
+
+.wrapper_navigation {
+
+    width: 150px;
+    height: 50px;
+
+}
+
+
+nav {
+
+
+
+}
+
+
+.left_nav_real {
+    float: left;
+    height: 200px;
+    width: 150px;
+
+}
+
+
+
+
+
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    background-color: red;
+    width: 1200px;
+}
+
+
+nav a {
+    text-decoration: none;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+
+
+}
+
+.span_for_h1 {
+    font-size: 30px;
+    text-align: center;
+}
+
+
+
+
+
+.middle {
+    height: 750px;
+    width: 1000px;
+
+}
+
+.style_for_h1 {
+    font-size: 150px;
+
+
+
+}
+
+.span_for_h1 {
+    font-size: 50px;
+    text-align: center
+    margin: 0px 0px 0px 15px;
+    height: 40px;
+    width: 300px;
+}
+
+h1 img {
+    height: 150px;
+    width: 150px;
+    font-weight: 100px;
+}
